@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "番",
+  "base_artist": "カラノア",
+  "createdAt": "2025-12-12T18:31:13.780090Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "番",
+      "artist": "カラノア",
+      "has_synced": false,
+      "path": "select/pl_01_番_カラノア.txt"
+    }
+  ]
+}
